@@ -14,6 +14,12 @@ Today, I bring you my first blog since joining Disco Tray Studios! I am very exc
   - [x] Make a contribution that will help the community
 - [X] Have fun coding!
 
+### Hours spent
+- [x] 2 hours setting up this blog
+- [x] 1 hour of adding my info to the disco Tray Website
+- [x] 1 hour of figuring out how to do a pull request
+- [x] 1 hour meeting with the team
+- [x] 2 hours reviewing the Med School application project
 
 
 
