@@ -12,7 +12,7 @@ In spite of these github errors, I finally got my corrected picture and blog on 
 #### Goals I am trying to achieve this next week!
 - [x] Finish updating my blog
   - [x] Create 3 issues to start working on
-    - [x] Go to both meetings with somme sort of progress done
+    - [x] Go to both meetings with some sort of progress done
   - [x] Divide the work up with Jay
 - [X] Dedicate more time towards working on the code this week.
 
